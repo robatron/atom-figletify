@@ -1,0 +1,22 @@
+{
+  "name": "figletify",
+  "main": "./lib/figletify",
+  "version": "0.0.1",
+  "description": "A short description of your package",
+  "keywords": [
+    "figlet",
+    "ascii art",
+    "figfont"
+  ],
+  "activationCommands": {
+    "atom-workspace": "figletify:convert"
+  },
+  "repository": "https://github.com/robatron/atom-figletify.git",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+    "figlet": "1.1.1"
+  }
+}
