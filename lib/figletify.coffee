@@ -11,8 +11,8 @@ module.exports = Figletify =
     # Register command that toggles this view
     @subscriptions.add atom.commands.add 'atom-workspace', 'figletify:convert': => @convert()
 
-    # Create a new font configuration entry
-    atom.config.set 'figletify.font', 'Small'
+    # Default font to 'Small' if font not set
+    atom.config.set 'figletify.font', 'Small' unless atom.config.get 'figletify.font'
 
   deactivate: ->
     @subscriptions.dispose()
