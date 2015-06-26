@@ -2,7 +2,7 @@
   "name": "figletify",
   "main": "./lib/figletify",
   "version": "0.1.0",
-  "description": "A short description of your package",
+  "description": "Atom package to convert the selected text to ASCII art using FIGlet",
   "keywords": [
     "figlet",
     "ascii art",
