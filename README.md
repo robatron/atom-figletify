@@ -1,4 +1,4 @@
-# atom-figletify
+# figletify
 
 > [Atom](https://atom.io/) package to convert the selected text to ASCII art using [FIGlet](http://www.figlet.org/)
 
