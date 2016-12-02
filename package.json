@@ -17,6 +17,6 @@
     "atom": ">=1.0.0 <2.0.0"
   },
   "dependencies": {
-    "figlet": "1.1.1"
+    "figlet": "^1.2.0"
   }
 }
