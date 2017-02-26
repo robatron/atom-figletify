@@ -19,7 +19,7 @@ to something like this:
 
 For example:
 
-![](doc/demo.gif)
+![](https://raw.githubusercontent.com/robatron/atom-figletify/master/doc/demo.gif)
 
 ## Usage
 
