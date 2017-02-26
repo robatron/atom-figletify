@@ -17,6 +17,10 @@ to something like this:
 |_||_\___|_|_\___/   \_/\_/\___/_| |_\__,_(_)
 ```
 
+For example:
+
+![](doc/demo.gif)
+
 ## Usage
 
 To figletify text, select the text you wish to convert, and do **any** of the following:
